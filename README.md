@@ -80,3 +80,5 @@ To learn more about React Native, take a look at the following resources:
 
 
 ![alt text](Screenshot_2024.02.28_16.02.13.198.png)
+
+![alt text](image.png)
